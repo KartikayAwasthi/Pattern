@@ -1,7 +1,7 @@
 public class Eleventh {
   // butterfly Pattern
   public static void main(String[] args) {
-    int n = 4;
+    int n = 5;
     // outer loop for upper part
     for (int i = 1; i <= n; i++) {
       // printing * for 1st half
